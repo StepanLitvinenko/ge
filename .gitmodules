@@ -1,0 +1,6 @@
+[submodule "testData"]
+	path = testData
+	url = https://github.com/StepanLitvinenko/testData.git
+[submodule "matlabSongAnalyzer"]
+	path = matlabSongAnalyzer
+	url = https://github.com/StepanLitvinenko/matlabSongAnalyzer.git
