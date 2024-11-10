@@ -1,3 +1,0 @@
-[submodule "testData"]
-	path = ./testData
-        url = https://github.com/StepanLitvinenko/testData.git
